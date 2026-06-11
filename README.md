@@ -48,7 +48,7 @@ O PlatformIO (PIO) gerencia nossas placas, bibliotecas e compilação.
 1. Clique no ícone de "Formiga" (ou alienígena) do PlatformIO na barra lateral.
 2. Clique em **PIO Home > Open**.
 3. Clique em **New Project**.
-4. Dê um nome ao projeto, selecione a placa que deseja usar (ex: *Arduino Uno* ou * Para ESP32: DOIT ESP32 DEVKIT V1*) e o framework (geralmente *Arduino*).
+4. Dê um nome ao projeto, selecione a placa que deseja usar (ex: Para Arduino: *Arduino Uno* ou Para ESP32: *DOIT ESP32 DEVKIT V1*) e o framework (geralmente *Arduino*).
 5. Escolha a pasta onde quer salvar e clique em **Finish**.
 
 ### Configurando o arquivo `platformio.ini`
