@@ -168,7 +168,7 @@ lib_deps =
 
 1. Clique no ícone do PlatformIO (a formiguinha) na barra lateral esquerda do VS Code.
 2. Clique em PIO Home > Open para abrir a tela inicial do gerenciador.
-**3. Para Repositório Baixado/Clonado:**
+3. **Para Repositório Baixado/Clonado:**
   Na tela que abriu, clique no botão Open Project (Abrir Projeto), navegue até a pasta do template que você baixou/clonou e selecione ela. Isso garante que o PlatformIO reconheça o projeto ativo.
 4. Agora, no menu esquerdo dessa mesma tela do PIO Home, clique em Libraries (ícone de livro).
 5. Na barra de pesquisa, digite o nome da biblioteca que você quer (ex: LiquidCrystal I2C) e aperte Enter.
