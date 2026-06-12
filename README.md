@@ -87,7 +87,7 @@ Escolha UMA das opções abaixo para baixar o projeto para o seu computador:
 1. Abra o seu terminal (Prompt de Comando ou PowerShell) ou crie uma pasta, abra ela no VS code e acesse o terminal do VS code.
 2. Navegue até a pasta desejada e digite o comando:
 ```bash
-git clone [https://github.com/glhrmlud/Wokwi-Simulator-Tutorial.git]
+git clone https://github.com/glhrmlud/Wokwi-Simulator-Tutorial.git
 ```
 
 ## 🧩 Passo 2. Abrindo no VS Code e Instalando Extensões
